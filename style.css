@@ -1,0 +1,98 @@
+.father{
+	display: flex;
+	justify-content: space-between;
+
+}
+.block{
+	height: 100px;
+	width:  100px;
+	background-color: red;
+}
+.mather{
+	display: flex;
+	justify-content: space-between;
+}
+.number{
+	height: 100px;
+	width: 100px;
+	display: flex;
+	justify-content: center;
+
+}
+.kub{
+	background-color: blue;
+	height: 100px;
+	min-width: 1700px;
+
+}
+.sister{
+	display: flex;
+	justify-content: space-between;
+}
+.block2{
+	background-color: green;
+	height: 100px;
+	width: 100px;
+}
+.block1{
+	height: 100px;
+	width: 100px;
+}
+.brother{
+	display: flex;
+	justify-content: space-between;
+
+}
+.A{
+	display: flex;
+	flex-direction: column;
+}
+.a{
+	height: 100px;
+	width:  100px;
+	background-color: black;
+}
+.b{
+	height: 100px;
+	width:  100px;
+	background-color: black;
+}
+.l{
+	height: 100px;
+	width:  100px;
+	background-color: black;
+}
+.B{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: space-between;
+
+
+}
+.c{
+	
+	background-color: orange;
+	height: 100px;
+	width:  100px;
+}
+.d{
+	background-color: yellow;
+	height: 100px;
+	width:  100px;
+}
+.C{
+	display: flex;
+	
+	align-items: flex-end;
+	justify-content: space-between;
+
+}
+
+.j{
+	display: flex;
+	background-color: yellow;
+	height: 100px;
+	width:  100px;
+}
+
